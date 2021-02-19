@@ -1,0 +1,20 @@
+{
+    "conf_dev":{
+        "driver":"mysql",
+        "dbhost":"127.0.0.1",
+        "dbname":"prouf1",
+        "dbuser":"prouf1",
+        "dbpass":"linuxlinux",
+        "web":"/",
+        "root":"/"
+    },
+    "conf_pro":{
+        "driver":"mysql",
+        "dbhost":"amig.cesnuria.com",
+        "dbname":"AmIg_prouf1",
+        "dbuser":"AmIg_prouf1",
+        "dbpass":"linuxlinux",
+        "web":"/m7/todofw/",
+        "root":"/m7/todofw/"
+    }
+}
